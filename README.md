@@ -1,1 +1,1 @@
-# Auto-sklearn 1.1
+# Auto-sklearn 1.1 + 1.2
